@@ -2,6 +2,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lys9546)](https://solved.ac/lys9546/)
 
+[![BOJ](https://bojstat.vulcan.site/lys9546)](https://www.acmicpc.net/user/lys9546)
+
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=b1ackhand)](https://b1ackhand.tistory.com/)
 
 <!--
