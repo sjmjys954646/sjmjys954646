@@ -2,7 +2,11 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lys9546)](https://solved.ac/lys9546/)
 
+블로그 <br>
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=b1ackhand)](https://b1ackhand.tistory.com/)
+
+![image](https://github.com/user-attachments/assets/8274f6cf-dbec-4d9e-ab76-5345de31b282)
+[내가 어떻게 공부해왔는지 로드맵](https://roadmap.sh/r/sjmjys954646_roadmap-copy)
 
 <!--
 **sjmjys954646/sjmjys954646** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
