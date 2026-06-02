@@ -1,4 +1,4 @@
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sjmjys954646)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sjmjys954646?cardType=github&theme=github-dark&fontFamily=Google%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lys9546)](https://solved.ac/lys9546/)
 
