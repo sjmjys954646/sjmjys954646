@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats-extended.vercel.app/api?username=sjmjys954646)](https://github.com/anuraghazra/github-readme-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sjmjys954646)](https://git.io/awesome-stats-card)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lys9546)](https://solved.ac/lys9546/)
 
